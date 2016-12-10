@@ -59,5 +59,8 @@ Provide more custom attributes.
         stepView.setStepList(stepsList);
     }
 
-### Thanks
+### Reference
 [StepView](https://github.com/baoyachi/StepView)
+
+
+#### Star if you like!
