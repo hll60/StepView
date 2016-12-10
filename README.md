@@ -1,5 +1,6 @@
 # StepView
 HorizontalStepView . For step indicator, flow indicator, timeline...
+Provide more custom attributes.
 
 ### HorizontalStepView
 <img src="screenshots/screen_hr.png"></img>
@@ -58,4 +59,5 @@ HorizontalStepView . For step indicator, flow indicator, timeline...
         stepView.setStepList(stepsList);
     }
 
-
+### Thanks
+[StepView](https://github.com/baoyachi/StepView)
