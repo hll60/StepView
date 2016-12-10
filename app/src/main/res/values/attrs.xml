@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="stepview">
+        <attr name="textUnDoColor" format="color" />
+        <attr name="textDoingColor" format="color" />
+        <attr name="textCompletedColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="stepview_indicator">
+        <attr name="iconHeight" format="dimension" />
+        <attr name="iconWidth" format="dimension" />
+        <attr name="lineHeight" format="dimension" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="lineUnCompletedColor" format="color" />
+        <attr name="lineCompletedColor" format="color" />
+        <attr name="lineSpacing" format="dimension" />
+        <attr name="iconBackgroundColor" format="color"/>
+        <attr name="iconUnDo" format="reference" />
+        <attr name="iconDoing" format="reference" />
+        <attr name="iconCompleted" format="reference" />
+        <attr name="iconShape" format="enum">
+            <enum name="square" value="0" />
+            <enum name="circle" value="1" />
+        </attr>
+        <attr name="iconTextSize" format="dimension" />
+        <attr name="iconTextColor" format="color" />
+    </declare-styleable>
+
+</resources>
